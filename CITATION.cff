@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "edge-product-disruption-sim: agent-based disruption simulation on a product-annotated supply network"
+type: software
+authors:
+  - family-names: Rolf
+    given-names: Benjamin
+    affiliation: Otto-von-Guericke-University Magdeburg
+version: 1.0.0
+license: MIT
+keywords:
+  - supply networks
+  - disruption propagation
+  - agent-based simulation
+  - automotive industry
+  - product substitutability
+preferred-citation:
+  type: article
+  title: "Agent-Based Disruption Simulation on an Edge-Level Product-Annotated Supply Network of the Automotive Industry"
+  authors:
+    - family-names: Rolf
+      given-names: Benjamin
+      affiliation: Otto-von-Guericke-University Magdeburg
+    - family-names: Inoue
+      given-names: Hiroyasu
+      affiliation: University of Hyogo
+    - family-names: Lang
+      given-names: Sebastian
+      affiliation: Otto-von-Guericke-University Magdeburg
+  journal: "Applied Network Science"
+  status: submitted

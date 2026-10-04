@@ -1,0 +1,15 @@
+# Licensed or large inputs and outputs, never committed
+data/
+embeddings/
+configs/
+results/
+outputs/
+logs/
+geo/japanese_firms_geolocation.json
+
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
