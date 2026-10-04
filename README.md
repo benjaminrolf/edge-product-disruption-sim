@@ -1,5 +1,7 @@
 # edge-product-disruption-sim
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23135360.svg)](https://doi.org/10.5281/zenodo.23135360)
+
 Code for the article
 
 > B. Rolf, H. Inoue, S. Lang. *Agent-Based Disruption Simulation on an Edge-Level
@@ -192,7 +194,9 @@ script names the figure in the article.
 
 ## Citation
 
-Please cite the article (see `CITATION.cff`).
+Please cite the article (see `CITATION.cff`). The code is archived at Zenodo,
+[10.5281/zenodo.23135360](https://doi.org/10.5281/zenodo.23135360) (all versions); the article
+uses v1.0.0, [10.5281/zenodo.23135361](https://doi.org/10.5281/zenodo.23135361).
 
 ## Licence
 

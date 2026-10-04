@@ -8,6 +8,8 @@ authors:
     affiliation: Otto-von-Guericke-University Magdeburg
 version: 1.0.0
 license: MIT
+doi: 10.5281/zenodo.23135360
+repository-code: "https://github.com/benjaminrolf/edge-product-disruption-sim"
 keywords:
   - supply networks
   - disruption propagation
